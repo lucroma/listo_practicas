@@ -11,3 +11,4 @@
 - Atajos de teclado: mira ATAJOS.md
 - `git revert HEAD`: deshace el último commitcon otro commit
 - `git fetch`: descarga lo nuevo sin tocar tus ficheros
+- `git switch -c <rama>`: crea una rama
